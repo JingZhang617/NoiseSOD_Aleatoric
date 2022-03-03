@@ -1,6 +1,6 @@
 # NoiseSOD_Aleatoric
 
-![alt text](./overview_network.png)
+![alt text](./overview_network_show.png)
 
 The noisy maps can be found at:
 
